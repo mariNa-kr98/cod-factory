@@ -1,0 +1,4 @@
+.idea
+out
+*.iml
+src/gr/aueb/cf/ch10/project1/output.txt
