@@ -1,2 +1,2 @@
-# cod-factory
-This is the initial repo
+# coding-factory
+This is the project repo
