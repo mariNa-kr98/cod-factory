@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16;
+package gr.aueb.cf.ch16.challenge1;
 
 public class Rectangle extends AbstractShape implements ITwoDimensional {
 

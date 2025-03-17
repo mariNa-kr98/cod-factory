@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16;
+package gr.aueb.cf.ch16.challenge1;
 
 /**
  * skeletal impl.
